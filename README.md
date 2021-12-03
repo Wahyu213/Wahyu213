@@ -21,7 +21,7 @@
 
 - 💬 Ask me about...
 
-- 📫 How to reach me **ardianrazak7107@gmail.com**
+- 📫 How to reach me **https://github.com/Wahyu213/Izumi-Robot.git**
 
 - ⚡ Fun fact **I'm a nub person in programmer**
 
