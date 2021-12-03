@@ -25,4 +25,4 @@
 
 - ⚡ Fun fact **I'm a nub person in programmer**
 
-<img align="center" <a href="https://t.me/Kuro_zenn" target="_blank"> <img src="https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram" alt="Telegram"/></a>
+MY Telegram"center" <a href="https://t.me/Kuro_zenn" target="_blank"> <img src="https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram" alt="Telegram"/></a>
