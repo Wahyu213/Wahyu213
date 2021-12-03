@@ -17,7 +17,7 @@
 
 - 🤝 I’m looking for help with... 
 
-- 👨‍💻 All of my projects are available at [https://github.com/Wahyu213/Izumi-Robot.git](https://github.com/Wahyu213/Izumi-Robot.git)
+- 👨‍💻 All of my projects are available at [https://github.com/Wahyu213?tab=repositories](https://github.com/Wahyu213?tab=repositories)
 
 - 💬 Ask me about...
 
