@@ -22,21 +22,12 @@
 ![Gmail Badge](https://img.shields.io/badge/-wahyusaputraramdani587@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=wahyusaputraramdani587@gmail.com)
 [![Group](https://img.shields.io/badge/dynamic/json?logo=telegram&label=%40OkaeriUserbot&labelColor=282c34&suffix=+members&color=2CA5E0&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtelegram%26queryKey%3DOkaeriUserbot&longCache=true%22)](https://t.me/OkaeriUserbot)
 
-### Stats:
-<p>
-    <img src="https://github-readme-stats.vercel.app/api?username=Wahyu213&hide=issues&show_icons=true&hide_border=true&title_color=000" />
-</p>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<details>
-    <summary>&#127942 <b>GitHub Awards</b></summary><br/>
-
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=Wahyu213&margin-w=5&margin-h=5)
-
 </details>
 
 ##  🎶 **Currently Playing**
 [![Spotify](https://spotify.pokurt.me/api/spotify)](https://open.spotify.com/user/316ps7xfvhwyjdsy5ugzhmfxhl74?si=c5977142845842bc)
-    
+ 
+ 
 ## <img src="https://i.redd.it/nwu0335ccoz41.png" width="25px"> **Favourite Anime list:**
 <details>
 <!-- anilist_start-->
