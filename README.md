@@ -1,4 +1,4 @@
-# <img src="https://i.pinimg.com/originals/01/63/6c/01636c5434cd0462086620c60fdfec16.gif" width="50px">**Hai <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> >~<** My name is Wahyu Saputra
+# <img src="https://i.pinimg.com/originals/01/63/6c/01636c5434cd0462086620c60fdfec16.gif" width="50px">**Hai >~< My name is Wahyu Saputra
 
 
 ##
