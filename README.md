@@ -35,7 +35,7 @@
 
 - **Buy me a :**
 
-    <a href='https://trakteer.id/Wahyusaputra' target='_blank'><img height='25' style='border:0px;height:36px;' src='https://az743702.vo.msecnd.net/cdn/kofi1.png?v=a&w=144' border='0' alt='Buy Me a Es Krim at Es-Krim.com' /></a>
+    <a href='https://trakteer.id/Wahyusaputra' target='_blank'><img height='25' style='border:0px;height:36px;' src='https://az743702.vo.msecnd.net/cdn/eskrim1.png?v=a&w=144' border='0' alt='Buy Me a Es Krim at Es-Krim.com' /></a>
     
     
     
