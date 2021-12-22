@@ -16,6 +16,12 @@
     <img src="https://img.shields.io/badge/Sublime%20Text-gray?&logo=Sublime-Text" />
 </p>
 
+
+**Contact Me:**
+
+![Gmail Badge](https://img.shields.io/badge/-wahyusaputraramdani587@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=wahyusaputraramdani587@gmail.com)
+[![Group](https://img.shields.io/badge/dynamic/json?logo=telegram&label=%40RandomAnimeIndonesia&labelColor=282c34&suffix=+members&color=2CA5E0&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtelegram%26queryKey%3DOkaeriUserbot&longCache=true%22)](https://t.me/OkaeriUserbot)
+
 ### Stats:
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=Wahyu213&hide=issues&show_icons=true&hide_border=true&title_color=000" />
