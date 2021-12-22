@@ -39,8 +39,12 @@
 
 ##  🎶 **Currently Playing**
 [![Spotify](https://spotify.pokurt.me/api/spotify)](https://open.spotify.com/user/316ps7xfvhwyjdsy5ugzhmfxhl74?si=c5977142845842bc)
-</details>
 
+![Metrics](https://metrics.lecoq.io/Wahyu213?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FJakarta)
+
+
+
+</details>
 
 ## 💰 **Donations & Support**
 
