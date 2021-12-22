@@ -25,7 +25,8 @@
 <details>
     <summary>&#127942 <b>GitHub Activity</b></summary><br/>
 
-![Metrics](https://metrics.lecoq.io/mrismanaziz?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FJakarta)
+![Metrics](https://metrics.lecoq.io/Wahyu213?
+template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FJakarta)
 
 </details>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
