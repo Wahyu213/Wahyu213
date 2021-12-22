@@ -41,10 +41,12 @@
 [![Spotify](https://spotify.pokurt.me/api/spotify)](https://open.spotify.com/user/316ps7xfvhwyjdsy5ugzhmfxhl74?si=c5977142845842bc)
 </details>
 
-<details align="left">
-  <summary><b>💸 Donate Link</b></summary><br/>
-<a href="https://ko-fi.com/scroolx"><img src="https://github.com/CyberID-Ltd/Wahyu213-Profile-Requirements/blob/main/1017087.png"  width="20" height="20" alt="Ko-fi"></a>
-</details>
+
+## 💰 **Donations & Support**
+
+- **Buy me a Ko-fi:**
+  
+  <a href='https://trakteer.id/Wahyusaputra' target='_blank'><img height='25' style='border:0px;height:36px;' src='https://az743702.vo.msecnd.net/cdn/kofi1.png?v=a&w=144' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
  
 ## <img src="https://i.redd.it/nwu0335ccoz41.png" width="25px"> **Favourite Anime list:**
 <details>
