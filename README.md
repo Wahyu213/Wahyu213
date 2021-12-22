@@ -1,5 +1,10 @@
 <h1 align="center">Hi, My Name Is Wahyu Ramdani</h1>
 
+<p align="center">
+  <a href="https://t.me/zenfrans"><img src="https://github.com/Wahyu213-Profile-Requirements/blob/main/computer-programming-anime-programming-language-thread-animation-gril-f6c2888a88588db1f063bcfcbc84e6cf.png" alt="Yoga Pranata"></a>
+</p>
+
+
 ### Connect with me:
 [<img align="left" alt="Wahyu | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 <br />
@@ -31,7 +36,13 @@
 
 ##  🎶 **Currently Playing**
 [![Spotify](https://spotify.pokurt.me/api/spotify)](https://open.spotify.com/user/316ps7xfvhwyjdsy5ugzhmfxhl74?si=c5977142845842bc)
- 
+</details>
+
+<details align="left">
+  <summary><b>💸 Donate Link</b></summary><br/>
+&nbsp; &nbsp;
+<a href="https://ko-fi.com/scroolx"><img src="https://github.com/Wahyu213-Profile-Requirements/blob/main/1017087.png"  width="20" height="20" alt="Ko-fi"></a>
+</details>
  
 ## <img src="https://i.redd.it/nwu0335ccoz41.png" width="25px"> **Favourite Anime list:**
 <details>
