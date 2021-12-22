@@ -30,14 +30,6 @@
 
 ##  🎶 **Currently Playing**
 [![Spotify](https://spotify.pokurt.me/api/spotify)](https://open.spotify.com/user/316ps7xfvhwyjdsy5ugzhmfxhl74?si=c5977142845842bc)
-
-## 💰 **Donations & Support**
-
-- **Buy me a :**
-
-    <a href='https://trakteer.id/Wahyusaputra' target='_blank'><img height='25' style='border:0px;height:36px;' src='https://az743702.vo.msecnd.net/cdn/eskrim1.png?v=a&w=144' border='0' alt='Buy Me a Es Krim at Es-Krim.com' /></a>
-    
-    
     
 ## <img src="https://i.redd.it/nwu0335ccoz41.png" width="25px"> **Favourite Anime list:**
 <details>
