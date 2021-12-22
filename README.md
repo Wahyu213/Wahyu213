@@ -1,5 +1,4 @@
 <h1 align="center">Hi, My Name Is Wahyu Ramdani</h1>
-<h3 align="center">A passionate frontend developer from Indonesia</h3>
 
 ### Connect with me:
 [<img align="left" alt="Wahyu | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
