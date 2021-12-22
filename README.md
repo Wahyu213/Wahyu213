@@ -2,12 +2,10 @@
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
 ### Connect with me:
-[<img align="left" alt="Wahyu | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Wahyu | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 <br />
 
 
-[twitter]: https://twitter.com/vynnray
 [telegram]: https://t.me/zenfrans
 
 ### Tools:
