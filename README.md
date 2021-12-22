@@ -35,6 +35,8 @@
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=wahyu213&show_icons=true&theme=radical&count_private=true&include_all_commits=true)](https://github.com/wahyu213)
 
+[![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=levina-lab&layout=compact&theme=midnight-purple&hide=Css)](https://github.com/Wahyu213)
+
 
 </details>
 
