@@ -29,3 +29,31 @@
 
 </details>
 
+##  🎶 **Currently Playing**
+[![Spotify](https://spotify.pokurt.me/api/spotify)](https://open.spotify.com/user/316ps7xfvhwyjdsy5ugzhmfxhl74?si=c5977142845842bc)
+
+## 💰 **Donations & Support**
+
+- **Buy me a :**
+
+    <a href='https://trakteer.id/Wahyusaputra' target='_blank'><img height='25' style='border:0px;height:36px;' src='https://az743702.vo.msecnd.net/cdn/kofi1.png?v=a&w=144' border='0' alt='Buy Me a Es Krim at Es-Krim.com' /></a>
+    
+    
+    
+## <img src="https://i.redd.it/nwu0335ccoz41.png" width="25px"> **Favourite Anime list:**
+<details>
+<!-- anilist_start-->
+ • <a href="https://anilist.co/anime/21087">One Punch Man<a><br>
+ • <a href="https://anilist.co/anime/97668">One Punch Man 2<a><br>
+ • <a href="https://anilist.co/anime/21416">One Punch Man OVA<a><br>
+ • <a href="https://anilist.co/anime/21355">Re:Zero kara Hajimeru Isekai Seikatsu<a><br>
+ • <a href="https://anilist.co/anime/101759">Yakusoku no Neverland<a><br>
+ • <a href="https://anilist.co/anime/108725">Yakusoku no Neverland 2<a><br>
+ • <a href="https://anilist.co/anime/20853">Aldnoah.Zero 2<a><br>
+ • <a href="https://anilist.co/anime/20632">Aldnoah.Zero<a><br>
+ • <a href="https://anilist.co/anime/226">Elfen Lied<a><br>
+ • <a href="https://anilist.co/anime/19603">Fate/stay night: Unlimited Blade Works<a><br>
+ • <a href="https://anilist.co/anime/20792">Fate/stay night: Unlimited Blade Works 2nd Season<a><br>
+ • <a href="https://anilist.co/anime/356">Fate/stay night<a><br>
+ • <a href="https://anilist.co/anime/20791">Fate/stay night [Heaven's Feel] I. presage flower<a><br>
+<!-- anilist_end-->
