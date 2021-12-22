@@ -43,7 +43,7 @@
 
 <details align="left">
   <summary><b>💸 Donate Link</b></summary><br/>
-<a href="https://ko-fi.com/scroolx"><img src="https://github.com/Wahyu213-Profile-Requirements/blob/main/1017087.png"  width="20" height="20" alt="Ko-fi"></a>
+<a href="https://ko-fi.com/scroolx"><img src="https://github.com/CyberID-Ltd/Wahyu213-Profile-Requirements/blob/main/1017087.png"  width="20" height="20" alt="Ko-fi"></a>
 </details>
  
 ## <img src="https://i.redd.it/nwu0335ccoz41.png" width="25px"> **Favourite Anime list:**
