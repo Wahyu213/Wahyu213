@@ -66,3 +66,7 @@
  • <a href="https://anilist.co/anime/356">Fate/stay night<a><br>
  • <a href="https://anilist.co/anime/20791">Fate/stay night [Heaven's Feel] I. presage flower<a><br>
 <!-- anilist_end-->
+    
+    
+ ![Metrics](https://metrics.lecoq.io/Wahyu21301?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FJakarta)
+
