@@ -1,28 +1,32 @@
 <h1 align="center">Hi, My Name Is Wahyu Ramdani</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
-## ᴘʀᴏꜰɪʟᴇ ᴏᴠᴇʀᴠɪᴇᴡꜱ ʜᴇʀᴇ
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+### Tools:
+<p>
+    <img src="https://img.shields.io/badge/OS-Linux-blue?&logo=Linux" />
+    <img src="https://img.shields.io/badge/OS-Windows-blue?&logo=Windows" />
+    <img src="https://img.shields.io/badge/IDE-Xcode-blue?&logo=xcode" />
+    <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
+    <img src="https://img.shields.io/badge/Sublime%20Text-gray?&logo=Sublime-Text" />
+</p>
 
-## Awards
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aryazakaria01&label=Profile%20views&color=0e75b6&style=flat" alt="aryazakaria01" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aryazakaria01" alt="aryazakaria01" /></a> </p>
+### Stats:
+<p>
+    <img src="https://github-readme-stats.vercel.app/api?username=Wahyu213&hide=issues&show_icons=true&hide_border=true&title_color=000" />
+</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<details>
+    <summary>&#127942 <b>GitHub Awards</b></summary><br/>
 
-## Info
-- 🔭 I’m currently working on... 
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=Wahyu213&margin-w=5&margin-h=5)
 
-- 🌱 I’m currently learning **Pyhton, Linux, Telethon, Android, Javascript, Java, php,**
+</details>
 
-- 👯 I’m looking to collaborate on... 
+<details>
+    <summary>&#127942 <b>GitHub Activity</b></summary><br/>
 
-- 🤝 I’m looking for help with... 
+![Metrics](https://metrics.lecoq.io/Wahyu213?
+template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FBandung)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Wahyu213?tab=repositories](https://github.com/Wahyu213?tab=repositories)
-
-- 💬 Ask me about...
-
-- 📫 How to reach me **Wahyusaputraramdani@gmail.com**
-
-- ⚡ Fun fact **I'm a nub person in programmer**
-
-MY Telegram <a href="https://t.me/Kuro_zenn" target="_blank"> <img src="https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram" alt="Telegram"/></a>
+</details>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
