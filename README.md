@@ -1,6 +1,16 @@
 <h1 align="center">Hi, My Name Is Wahyu Ramdani</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
+### Connect with me:
+[<img align="left" alt="Wahyu | Trakteer" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/trakteer.id.svg" />][Trakteer]
+[<img align="left" alt="Wahyu | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
+<br />
+
+
+[Trakter]: https://trakteer.id/wahyu-z1ch6/tip
+[telegram]: https://t.me/zenfrans
+
+
 ### Tools:
 <p>
     <img src="https://img.shields.io/badge/OS-Linux-blue?&logo=Linux" />
