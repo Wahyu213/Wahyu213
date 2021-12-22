@@ -37,7 +37,6 @@
 
 </details>
 
-
 ##  🎶 **Currently Playing**
 [![Spotify](https://spotify.pokurt.me/api/spotify)](https://open.spotify.com/user/316ps7xfvhwyjdsy5ugzhmfxhl74?si=c5977142845842bc)
 </details>
@@ -65,8 +64,8 @@
  • <a href="https://anilist.co/anime/20792">Fate/stay night: Unlimited Blade Works 2nd Season<a><br>
  • <a href="https://anilist.co/anime/356">Fate/stay night<a><br>
  • <a href="https://anilist.co/anime/20791">Fate/stay night [Heaven's Feel] I. presage flower<a><br>
-<!-- anilist_end-->
-    
+ <!-- anilist_end-->
+ </details>  
     
  
 
