@@ -33,7 +33,7 @@
 
 ##  🐙 **Github Stats**
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=Wahyu213&show_icons=true&theme=radical&count_private=true&include_all_commits=true)](https://github.com/Wahyu213)
+[![github stats](https://github-readme-stats.vercel.app/api?username=wahyu213&show_icons=true&theme=radical&count_private=true&include_all_commits=true)](https://github.com/wahyu213)
 
 
 </details>
