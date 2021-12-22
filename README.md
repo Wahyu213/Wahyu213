@@ -1,7 +1,7 @@
 <h1 align="center">Hi, My Name Is Wahyu Ramdani</h1>
 
 <p align="center">
-  <a href="https://t.me/zenfrans"><img src="https://github.com/Wahyu213-Profile-Requirements/blob/main/computer-programming-anime-programming-language-thread-animation-gril-f6c2888a88588db1f063bcfcbc84e6cf.png" alt="Yoga Pranata"></a>
+  <a href="https://t.me/zenfrans"><img src="https://github.com/Wahyu213-Profile-Requirements/blob/main/computer-programming-anime-programming-language-thread-animation-gril-f6c2888a88588db1f063bcfcbc84e6cf.png" alt="Wahyu"></a>
 </p>
 
 
