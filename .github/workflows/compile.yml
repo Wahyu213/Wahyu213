@@ -20,7 +20,7 @@ jobs:
     env:
       # Edit here with the names of your latex file and directory (can use ".")
       DIR: about
-      FILE: wahyu
+      FILE: wahyu.text
     steps:
       - name: Checkout
         uses: actions/checkout@v2
