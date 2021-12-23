@@ -36,8 +36,6 @@
 
 <img src="https://github.com/Okaeri-Project/Wahyu213-Stats/blob/master/generated/languages.svg" />
 <br><br>
-<img src="https://github.com/Okaeri-Project/Wahyu213-Stats/blob/master/generated/overview.svg" />
-</p>
 
 </details>
 
