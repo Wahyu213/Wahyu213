@@ -9,13 +9,6 @@
 </details>
 
 
-### Connect with me:
-[<img align="left" alt="Wahyu | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
-<br />
-
-
-[telegram]: https://t.me/zenfrans
-
 ### Tools:
 <p>
     <img src="https://img.shields.io/badge/OS-Linux-blue?&logo=Linux" />
