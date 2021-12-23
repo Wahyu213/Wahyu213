@@ -1,5 +1,8 @@
 # <img src="https://i.pinimg.com/originals/01/63/6c/01636c5434cd0462086620c60fdfec16.gif" width="50px">Hai >~< My name is Wahyu Saputra
 
+<p align="center">
+  <a href="https://t.me/Yoga_CIC"><img src="https://github.com/CyberID-Ltd/zYxDevs-Profile-Requirements/blob/main/computer-programming-anime-programming-language-thread-animation-gril-f6c2888a88588db1f063bcfcbc84e6cf.png" alt="Yoga Pranata"></a>
+</p>
 
 ##
 <details open>
@@ -24,11 +27,12 @@
 ![Gmail Badge](https://img.shields.io/badge/-wahyusaputraramdani587@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=wahyusaputraramdani587@gmail.com)
 [![Group](https://img.shields.io/badge/dynamic/json?logo=telegram&label=%40OkaeriUserbot&labelColor=282c34&suffix=+members&color=2CA5E0&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtelegram%26queryKey%3DOkaeriUserbot&longCache=true%22)](https://t.me/OkaeriUserbot)
 
-##  🐙 **Github Stats**
+<details align="center">
+    <summary><b>📝 Github Stats</b></summary><br/>
+<a href="https://github.com/Okaeri-Project/Wahyu213-Stats">
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=wahyu213&show_icons=true&theme=radical&count_private=true&include_all_commits=true)](https://github.com/wahyu213)
-
-[![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=levina-lab&layout=compact&theme=midnight-purple&hide=Css)](https://github.com/Wahyu213)
+![](https://github.com/Okaeri-Project/Wahyu213-Stats/blob/master/generated/overview.svg)
+![](https://github.com/Okaeri-Project/Wahyu213-Stats/blob/master/generated/languages.svg)
 
 
 </details>
