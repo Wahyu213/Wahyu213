@@ -30,6 +30,10 @@
 [![Group](https://img.shields.io/badge/dynamic/json?logo=telegram&label=%40OkaeriUserbot&labelColor=282c34&suffix=+members&color=2CA5E0&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtelegram%26queryKey%3DOkaeriUserbot&longCache=true%22)](https://t.me/OkaeriUserbot)
 </p>
 
+## 🌐 **Top Languages**
+
+[![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Wahyu213&show_icons=true&theme=radical&layout=compact)](https://github.com/Scroxy-X)
+
 
 ##  🎶 **Currently Playing**
 [![Spotify](https://img.shields.io/badge/-Spotify-%232c3e50?style=flat-square&logo=spotify)](https://open.spotify.com/user/316ps7xfvhwyjdsy5ugzhmfxhl74?si=c5977142845842bc)
