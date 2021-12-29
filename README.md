@@ -63,7 +63,7 @@
 
 ## 🌐 **Top Languages**
 
-[![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Wahyu213&show_icons=true&theme=radical&layout=compact)](https://github.com/Scroxy-X)
+[![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Wahyu213&show_icons=true&theme=radical&layout=compact)](https://github.com/Wahyu213)
 
 
 ##  🎶 **Currently Playing**
