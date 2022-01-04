@@ -8,7 +8,22 @@
 <a href="https://t.me/zenfrans"><img alt="Cute Count" src="https://count.getloli.com/get/@wahyu?theme=rule34" /></a>
 </details>
   
-## **About me**:
+```
+  from github import Wahyu213
+
+class Wahyu213():
+    def __init__(self):
+        self.name = ['Wahyu saputra']
+        self.country = ['Indonesia']
+        self.language = ['Indonesia', 'Japan']
+        self.quote = ['i'am noob']
+
+print('See you again👋')
+```  
+  
+  
+  
+  ## **About me**:
 
 **Languages I currently know :**
 
