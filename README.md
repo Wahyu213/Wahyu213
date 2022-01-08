@@ -62,8 +62,6 @@
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=Wahyu213&show_icons=true&theme=radical)](https://github.com/Wahyu213)
 
-![GitHub User's stars](https://img.shields.io/github/stars/Wahyu213?affiliations=OWNER&color=aqua&style=for-the-badge)
-
 
 ## 🌐 **Top Languages**
 
