@@ -1,5 +1,6 @@
-<h1 align="center"><img src=".assets/happy.gif" width="50px">Hai My name is Wahyu Saputra
-</h1>    
+<p align="center">
+  <a href="https://t.me/Zenfrans"><img src="htttps://github.com/Wahyu213/Wahyu213/blob/main/225d293b0645de03bd6101703107fbb7.gif" alt="Wahyu Saputra"></a>
+</p>
 
 ![Chika](https://user-images.githubusercontent.com/91831925/149538519-a234acfa-fe49-489f-98bd-cdbe813f71bf.png)
 
@@ -19,6 +20,8 @@
   <a href='https://ko-fi.com/scroolx' target='_blank'><img height='25' style='border:0px;height:36px;' src='https://az743702.vo.msecnd.net/cdn/kofi1.png?v=a&w=144' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
  
 
-    
+    <p align="center">
+  <a href="https://t.me/Yoga_CIC"><img src="https://github.com/CyberID-Ltd/zYxDevs-Profile-Requirements/blob/main/computer-programming-anime-programming-language-thread-animation-gril-f6c2888a88588db1f063bcfcbc84e6cf.png" alt="Yoga Pranata"></a>
+</p>
  
 
