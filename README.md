@@ -2,13 +2,13 @@
 </h1>    
 __________
 
-<img src="225d293b0645de03bd6101703107fbb7.gif" width="80x">
+<h1 <img src="225d293b0645de03bd6101703107fbb7.gif" width="80x"></h1>
 
 
 [![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=radical)](https://github.com/Wahyu213)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/zenfrans)
 
-![stats](https://github-readme-stats.vercel.app/api?username=Wahyu213&show_icons=true&theme=white)](https://github.com/Wahyu213)
+![stats](https://github-readme-stats.vercel.app/api?username=Wahyu213&show_icons=true&theme=radical)](https://github.com/Wahyu213)
 ![trophy](https://github-profile-trophy.vercel.app/?username=Wahyu213&theme=juicyfresh&no-bg=true&no-frame=false&column=3&")
 
 
