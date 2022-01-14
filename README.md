@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://i.pinimg.com/originals/01/63/6c/01636c5434cd0462086620c60fdfec16.gif" width="50px">Hai My name is Wahyu Saputra
+<h1 align="center"><img src=".Wahyu213-Profile-Requirements/assets/happy.gif" width="50px">Hai My name is Wahyu Saputra
 </h1>    
 
 ![Chika](https://user-images.githubusercontent.com/91831925/149538519-a234acfa-fe49-489f-98bd-cdbe813f71bf.png)
