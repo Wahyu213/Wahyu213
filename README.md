@@ -1,6 +1,4 @@
-<p align="center"><"Hai My Name Wahyu saputra"></a>
-</p>
-
+<h1 align="center"><width="35px">Hai My Name Wahyu Saputra</h1>
 
 ![Chika](https://user-images.githubusercontent.com/91831925/149538519-a234acfa-fe49-489f-98bd-cdbe813f71bf.png)
 
