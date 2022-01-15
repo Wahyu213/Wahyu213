@@ -14,14 +14,6 @@
 
 ![stats](https://github-readme-stats.vercel.app/api?username=Wahyu213&show_icons=true&theme=radical)
 ![trophy](https://github-profile-trophy.vercel.app/?username=Wahyu213&theme=juicyfresh&no-bg=true&no-frame=false&column=3&")
-    
- 
-<details>
-    <summary>&#127942 <b>GitHub Activity</b></summary><br/>
-
-![Metrics](https://metrics.lecoq.io/Wahyu213?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FSolo)
-
-</details>
 
 ## 💰 **Donations & Support**
 
