@@ -1,4 +1,4 @@
-# <img src="https://i.pinimg.com/originals/01/63/6c/01636c5434cd0462086620c60fdfec16.gif" width="50px"> **Halo <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> >~<**My name wahyu saputra ~  | [![Profile views](https://gpvc.arturio.dev/Wahyu213)](https://github.com/Wahyu213)
+# <img src="https://i.pinimg.com/originals/01/63/6c/01636c5434cd0462086620c60fdfec16.gif" width="50px"> **Halo My name wahyu saputra ~  | [![Profile views](https://gpvc.arturio.dev/Wahyu213)](https://github.com/Wahyu213)
 
 
 ![Chika](https://user-images.githubusercontent.com/91831925/149545842-83c559ca-b97c-4af1-a0af-bd369146383c.png)
