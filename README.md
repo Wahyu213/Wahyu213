@@ -4,9 +4,10 @@
   <a href="https://t.me/nbzoning"><img src="http://readme-typing-svg.herokuapp.com?color=1C71FA&center=true&vCenter=true&multiline=false&lines=A+Noob+Coder+From+Indonesia.;Python%2C+Shell%2C+Perl%2C+Javascript.;Sleep+Is+The+Best." alt="Apa Kontol?"></a>
 
 
-<p align="center">
-  <img src="![photo_2022-01-20_11-38-21](https://user-images.githubusercontent.com/91831925/150274588-95dc0489-fb9e-494f-b801-4b314aa5cd98.jpg)">
-</p>
+
+  
+  ![photo_2022-01-20_11-38-21](https://user-images.githubusercontent.com/91831925/150274736-43580622-d9c4-4d50-9876-06abb7c51823.jpg)
+
   
   
   <details align="center">
