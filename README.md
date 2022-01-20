@@ -3,10 +3,14 @@
 <p align="center">
   <a href="https://t.me/nbzoning"><img src="http://readme-typing-svg.herokuapp.com?color=1C71FA&center=true&vCenter=true&multiline=false&lines=A+Noob+Coder+From+Indonesia.;Python%2C+Html%2C+Css%2C+Javascript.;Sleep+Money+and+Life+is+Needed." alt="Apa Kontol?"></a>
 
-    
-![stats](https://github-readme-stats.vercel.app/api?username=Wahyu213&show_icons=true&theme=radical)
-![trophy](https://github-profile-trophy.vercel.app/?username=Wahyu213&theme=juicyfresh&no-bg=true&no-frame=false&column=3&")
- 
+
+<details align="center">
+    <summary><b>📝 Github Stats</b></summary><br/>
+<a href="https://github.com/Wahyu213"><img align="center" alt="Wahyu Stats" src="https://github-readme-stats.vercel.app/api?username=Wahyu213&show_icons=true&theme=cobalt&count_private=true&include_all_commits=true&cache_seconds=86400" /></a><br>
+<a href="https://t.me/zenfrans"><img align="center" alt="Wahyu Github Trophy" src="https://github-profile-trophy.vercel.app/?username=Wahyu213&theme=dracula&row=2&column=4" /></a><br>
+<a href="https://github.com/Wahyu213"><img align="center" alt="Wahyu Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wahyu213&theme=cobalt&layout=compact&langs_count=6" /></a>
+</details>
+  
  ________________________________________________________________________________________________________________________________________________________________________________
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Wahyu213" alt="Wahyu213" /></p>
 
