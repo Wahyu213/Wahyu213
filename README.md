@@ -1,7 +1,5 @@
 <h1 align="center">Hi! 👋 I'm Wahyu Saputra</h1>
 
-<h1 align="center">Hi! 👋 I'm zYxDevs</h1>
-
 <p align="center">
   <a href="https://t.me/nbzoning"><img src="http://readme-typing-svg.herokuapp.com?color=1C71FA&center=true&vCenter=true&multiline=false&lines=A+Noob+Coder+From+Indonesia.;Python%2C+Html%2C+Css%2C+Javascript.;Sleep+Money+and+Life+is+Needed." alt="Apa Kontol?"></a>
 
