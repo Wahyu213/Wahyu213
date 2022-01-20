@@ -17,9 +17,7 @@
 <a href="https://github.com/Wahyu213"><img align="center" alt="Wahyu Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wahyu213&theme=cobalt&layout=compact&langs_count=6" /></a>
 </details>
   
- ________________________________________________________________________________________________________________________________________________________________________________
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Wahyu213" alt="Wahyu213" /></p>
-
+________________________________________________________________________________________________________________________________________________________________________________
 ## 💰 **Donations & Support**
 
 - **Buy me a Ko-fi:**
