@@ -1,7 +1,8 @@
 <h1 align="center">Hi! 👋 I'm Wahyu Saputra</h1>
 
 <p align="center">
-  <img src="httpa://github.com/Wahyu213-Profile-Requirements/Chika-fujiwara.gif">
+  <img src="![photo_2022-01-20_11-38-21](https://user-images.githubusercontent.com/91831925/150274588-95dc0489-fb9e-494f-b801-4b314aa5cd98.jpg)
+">
 </p>
 
 <p align="center">
