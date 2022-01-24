@@ -1,27 +1,137 @@
-<h1 align="center">Hi❗ I'm Wahyu Saputra</h1>
-
-<p align="center">
-  <a href="https://t.me/nbzoning"><img src="http://readme-typing-svg.herokuapp.com?color=1C71FA&center=true&vCenter=true&multiline=false&lines=皆さんこんにちは新.;Python%2C+Shell%2C+Perl%2C+Javascript.;Sleep+Is+The+Best." alt="Apa Kontol?"></a>
+![1203422](https://user-images.githubusercontent.com/91831925/150810205-5dd7c064-ea2b-4e5b-bb4d-6a292855d098.jpg)
 
 
+# **Hi there, I'm Wahyu saputra.**
 
-  
-  ![photo_2022-01-20_11-38-21](https://user-images.githubusercontent.com/91831925/150274736-43580622-d9c4-4d50-9876-06abb7c51823.jpg)
+# Some FAQs
 
-  
-  
-  <details align="center">
-    <summary><b>📝 Github Stats</b></summary><br/>
-<a href="https://github.com/Wahyu213"><img align="center" alt="Wahyu Stats" src="https://github-readme-stats.vercel.app/api?username=Wahyu213&show_icons=true&theme=cobalt&count_private=true&include_all_commits=true&cache_seconds=86400" /></a><br>
-<a href="https://t.me/zenfrans"><img align="center" alt="Wahyu Github Trophy" src="https://github-profile-trophy.vercel.app/?username=Wahyu213&theme=dracula&row=2&column=4" /></a><br>
-<a href="https://github.com/Wahyu213"><img align="center" alt="Wahyu Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wahyu213&theme=cobalt&layout=compact&langs_count=6" /></a>
-</details>
-  
-________________________________________________________________________________________________________________________________________________________________________________
-## 💰 **Donations & Support**
+## **Who are you?**
 
-- **Buy me a Ko-fi:**
-  
-  <a href='https://ko-fi.com/scroolx' target='_blank'><img height='25' style='border:0px;height:36px;' src='https://az743702.vo.msecnd.net/cdn/kofi1.png?v=a&w=144' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
- 
+Well, nothing special, just an eighteen year old person interested in computers and art. \
+Name's **Wahyu**, `Wahyu saputra` to be exact. Call me Wahyu if you wanna. \
+I'm not a professional in any way whatsoever, I do things to have fun and cause its interesting.
 
+## **Where are you from? Where do you belong?**
+
+Guess it.
+> Please don't dox me, thanks >~<
+
+## **What are you doing currently? What are you learning?**
+
+I'm learning and playing around with a few languages, see pinned repositories for an idea of what I'm upto.
+
+The languages currently are:
+
+- Python
+- C#
+- Go
+
+Maybe I'll play with a bit of PHP
+
+I wanna write software to entertain myself and help people. \
+Tho I don't think I achived the latter goal till now.
+
+## **Eww, I see a weeb profile.**
+
+Can't help it, it's the best way to hide my face on this account
+> Why do people hate weebs .-.
+
+## **Cool, what more interests you?**
+
+My interests are quite, weird. They're scattered all over the place. \
+I've been fascinated by music and have studied it since the age of 6, I've performed on stage and on air but yeah now I've been away from that. I specialize in key instruments. \
+Another thing that interests me is Media Production, aka, working with audio, video and broadcasting media.
+
+> I just like art in general. also feeds the reason of me being obsessed with Japanese drawings (⋟ ﹏ ⋞)
+
+## **I wanna talk to you, how can I reach you?**
+
+There ya go, but yea I might be slow to respond. ＼(￣O￣) \
+Just don't be a creep, thanks ● ﹏ ●
+
+[![Telegram Badge](https://img.shields.io/badge/-dank_as_fuck-1ca0f1?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/zenfrans)](https://t.me/zenfrans)
+[![discord](https://discord-md-badge.vercel.app/api/shield/895518628739424326?style=social)](https://discordapp.com/users/895518628739424326)
+
+## **What languages you use and how much do you code?**
+
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-390%20hrs%2031%20mins-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-864%20Thousand%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 1,235 Commits in the Year 2022
+ > 
+> 📦 74.1 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 68 Public Repositories 
+ > 
+> 🔑 9 Private Repositories  
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    71 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.02% 
+🌆 Daytime    331 commits    ████████░░░░░░░░░░░░░░░░░   32.74% 
+🌃 Evening    380 commits    █████████░░░░░░░░░░░░░░░░   37.59% 
+🌙 Night      229 commits    █████░░░░░░░░░░░░░░░░░░░░   22.65%
+
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday       138 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.65% 
+Tuesday      152 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.03% 
+Wednesday    109 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.78% 
+Thursday     167 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.52% 
+Friday       158 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.63% 
+Saturday     142 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.05% 
+Sunday       145 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.34%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/indonesia
+
+💬 Programming Languages: 
+Go                       26 hrs 9 mins       ███████████████████░░░░░░   77.07% 
+Python                   5 hrs 49 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.14% 
+Log                      41 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.06% 
+INI                      40 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.99% 
+JSON                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.67%
+
+🔥 Editors: 
+GoLand                   27 hrs 1 min        ████████████████████░░░░░   79.61% 
+VS Code                  6 hrs 55 mins       █████░░░░░░░░░░░░░░░░░░░░   20.39%
+
+💻 Operating System: 
+Windows                  33 hrs 29 mins      ████████████████████████░   98.68% 
+Linux                    26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.32%
+
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   44 repos            ███████████░░░░░░░░░░░░░░   46.81% 
+Go                       30 repos            ████████░░░░░░░░░░░░░░░░░   31.91% 
+C#                       10 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   10.64% 
+C++                      4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.26% 
+HTML                     2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.13%
+
+```
+
+ Last Updated on 24/01/2022 15:04:41 UTC
+<!--END_SECTION:waka-->
+
+## **Can I stalk your spotify?**
+
+Um sure.
+
+![OwO Spotify](https://spotify-recently-played-readme.vercel.app/api?user=316ps7xfvhwyjdsy5ugzhmfxhl74?si=07af124fdb0e4bfc&count=5)
