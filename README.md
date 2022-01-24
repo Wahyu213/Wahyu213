@@ -133,3 +133,4 @@ HTML                     2 repos             ░░░░░░░░░░░�
 ## **Can I stalk your spotify?**
 
 Um sure.
+  <a href="https://open.spotify.com/user=316ps7xfvhwyjdsy5ugzhmfxhl74/" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
