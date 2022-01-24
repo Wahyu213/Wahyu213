@@ -24,7 +24,7 @@ The languages currently are:
 
 - Python
 - C#
-- Go
+- Javascript
 
 Maybe I'll play with a bit of PHP
 
