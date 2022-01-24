@@ -49,7 +49,7 @@ Another thing that interests me is Media Production, aka, working with audio, vi
 There ya go, but yea I might be slow to respond. ＼(￣O￣) \
 Just don't be a creep, thanks ● ﹏ ●
 
-[![Telegram Badge](https://img.shields.io/badge/-dank_as_fuck-1ca0f1?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/zenfrans)](https://t.me/zenfrans)
+[![Telegram Badge](https://img.shields.io/badge/-zenfrans-1ca0f1?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/zenfrans)](https://t.me/zenfrans)
 [![discord](https://discord-md-badge.vercel.app/api/shield/895518628739424326?style=social)](https://discordapp.com/users/895518628739424326)
 
 ## **What languages you use and how much do you code?**
@@ -133,5 +133,3 @@ HTML                     2 repos             ░░░░░░░░░░░�
 ## **Can I stalk your spotify?**
 
 Um sure.
-
-![OwO Spotify](https://spotify-recently-played-readme.vercel.app/api?user=316ps7xfvhwyjdsy5ugzhmfxhl74&count=5)
