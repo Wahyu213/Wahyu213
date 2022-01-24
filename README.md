@@ -134,4 +134,4 @@ HTML                     2 repos             ░░░░░░░░░░░�
 
 Um sure.
 
-![OwO Spotify](https://spotify-recently-played-readme.vercel.app/api?user=316ps7xfvhwyjdsy5ugzhmfxhl74?si=07af124fdb0e4bfc&count=5)
+![OwO Spotify](https://spotify-recently-played-readme.vercel.app/api?user=316ps7xfvhwyjdsy5ugzhmfxhl74&count=5)
