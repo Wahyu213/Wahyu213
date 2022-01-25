@@ -50,7 +50,7 @@ There ya go, but yea I might be slow to respond. ＼(￣O￣) \
 Just don't be a creep, thanks ● ﹏ ●
 
 [![Telegram Badge](https://img.shields.io/badge/-zenfrans-1ca0f1?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/zenfrans)](https://t.me/zenfrans)
-[![discord](https://discord-md-badge.vercel.app/api/shield/Wahyu?style=social)](https://discordapp.com/users/895518628739424326)
+[![discord](https://discord-md-badge.vercel.app/api/shield/895518628739424326?style=social)](https://discordapp.com/users/895518628739424326)
 
 ## **What languages you use and how much do you code?**
 
@@ -133,4 +133,4 @@ HTML                     2 repos             ░░░░░░░░░░░�
 ## **Can I stalk your spotify?**
 
 
-  <a href="https://open.spotify.com/user=316ps7xfvhwyjdsy5ugzhmfxhl74/" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
+  <a href="https://open.spotify.com/user=316ps7xfvhwyjdsy5ugzhmfxhl74" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
