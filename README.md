@@ -50,7 +50,7 @@ There ya go, but yea I might be slow to respond. ＼(￣O￣) \
 Just don't be a creep, thanks ● ﹏ ●
 
 [![Telegram Badge](https://img.shields.io/badge/-zenfrans-1ca0f1?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/zenfrans)](https://t.me/zenfrans)
-[![discord](https://discord-md-badge.vercel.app/api/shield/895518628739424326?style=social)](https://discordapp.com/users/895518628739424326)
+[![discord](https://discord-md-badge.vercel.app/api/shield/Wahyu?style=social)](https://discordapp.com/users/895518628739424326)
 
 ## **What languages you use and how much do you code?**
 
