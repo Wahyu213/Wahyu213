@@ -3,7 +3,8 @@
 
 # **Hi there, I'm Wahyu saputra.**
 
-> Telegram - **@zenfrans**
+> Telegram - **[@zenfrans](https://t.me/zenfrans)**
+
 > For business - **wahyusaputraramdani587@gmail.com**
 
 ## Github Stats
