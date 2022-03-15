@@ -5,7 +5,7 @@
 
 # **Hi there, I'm Wahyu saputra.**
 
-> Telegram - **[@Skylann25](https://t.me/Skylann25)**
+> Telegram - **[@zenfrans](https://t.me/zenfrans)**
 
 > For business - **wahyusaputraramdani587@gmail.com**
 
