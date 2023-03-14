@@ -1,6 +1,3 @@
-![1208902](https://user-images.githubusercontent.com/91831925/157144659-3e739787-c9fc-4d7a-bcf7-8e8d80121842.jpg)
-
-
 
 
 # **Hi there, I'm Wahyu saputra.**
